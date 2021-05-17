@@ -1,6 +1,6 @@
 # Socket_Programming_Functions_On_Cpp
 *************************************************************************************************************************************************
-sing this source code, you can store/recieve and even retrieve text files, word files, odt files and pdf, powered with some other useful commands *************************************************************************************************************************************************
+Using this source code, you can store/recieve and even retrieve text files, word files, odt files and pdf, powered with some other useful commands *************************************************************************************************************************************************
 
 
 ***********************************************************
