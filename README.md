@@ -1,16 +1,11 @@
-# Socket_Programming_Functions_On_Cpp
-*************************************************************************************************************************************************
-Using this source code, you can store/recieve and even retrieve text files, word files, odt files and pdf, powered with some other useful commands *************************************************************************************************************************************************
+# Socket_Programming_Functions
+Using this source code, you can store/recieve and even retrieve text files, word files, odt files and pdf, powered with some other useful commands.
 
 
-***********************************************************
-Note that this code will only properly run on Linux devices
-***********************************************************
+- Note that this code will only properly run on LINUX devices
 
 
-*****************+*****
-COMPILATION ISTRUCTIONS
-*************+*********
+COMPILATION ISTRUCTIONS:
 
 - Make sure client should have a different folder as I given this src, compile them separately keeping the structure (In this way, you can see files transfer in real-time). 
 
