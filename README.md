@@ -14,7 +14,7 @@ COMPILATION ISTRUCTIONS:
 ///////////////////////////////////////////////////////////////////////      g++ *.cpp      ////////////////////////////////////////////////////////////////////
 
 
-Once it get's compiled, a full guidance on commands and steps-to-follow is given while the program gets executed, this means that, the implemented menu's are clear and concise, please take a look at the menu, and choose the options you are interested in.
+Once it get's compiled, a full guidance on commands and steps-to-follow is given while the program gets executed, this means that, the implemented menu's are clear and concise. Please take a look at the menu, and choose the options you are interested in.
 
 Wether you think new functionalities, or improvements can be implemented on this src feel free to let me know, it would be helpful :D
 
